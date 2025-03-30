@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer Science and Data Science. At this moment, I am trying to learn the UX design software Figma.
 - 🌱 I’m currently learning C++ and HTML
 - 💞️ I’m looking to collaborate on online hackathons and other projects
-- 📫 How to reach me: @senopolet on instagram
 - ⚡ Fun fact: I like all different types of music like EDM, Asian RnB, and Kpop
 
 <!---
